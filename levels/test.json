@@ -1,0 +1,193 @@
+{
+    "units": [
+        {
+            "combatstats": {
+                "attack": 10,
+                "attacks_per_second": 1.0,
+                "currentHp": 100,
+                "range": 2,
+                "totalHp": 100
+            },
+            "identity": {
+                "unit": 0,
+                "unitname": "debugger"
+            },
+            "position": [
+                5.0,
+                4.0
+            ],
+            "teamaffiliation": {
+                "team": 0,
+                "teamname": "ally"
+            }
+        },
+        {
+            "combatstats": {
+                "attack": 15,
+                "attacks_per_second": 1.0,
+                "currentHp": 200,
+                "range": 1,
+                "totalHp": 200
+            },
+            "identity": {
+                "unit": 1,
+                "unitname": "trojan"
+            },
+            "position": [
+                2.0,
+                4.0
+            ],
+            "teamaffiliation": {
+                "team": 0,
+                "teamname": "ally"
+            }
+        },
+        {
+            "combatstats": {
+                "attack": 15,
+                "attacks_per_second": 1.5,
+                "currentHp": 75,
+                "range": 4,
+                "totalHp": 75
+            },
+            "identity": {
+                "unit": 4,
+                "unitname": "udp"
+            },
+            "position": [
+                3.0,
+                4.0
+            ],
+            "teamaffiliation": {
+                "team": 0,
+                "teamname": "ally"
+            }
+        },
+        {
+            "combatstats": {
+                "attack": 20,
+                "attacks_per_second": 0.5,
+                "currentHp": 250,
+                "range": 2,
+                "totalHp": 250
+            },
+            "identity": {
+                "unit": 3,
+                "unitname": "ddos"
+            },
+            "position": [
+                0.0,
+                4.0
+            ],
+            "teamaffiliation": {
+                "team": 0,
+                "teamname": "ally"
+            }
+        },
+        {
+            "combatstats": {
+                "attack": 15,
+                "attacks_per_second": 1.0,
+                "currentHp": 150,
+                "range": 1,
+                "totalHp": 150
+            },
+            "identity": {
+                "unit": 2,
+                "unitname": "hdd"
+            },
+            "position": [
+                4.0,
+                5.0
+            ],
+            "teamaffiliation": {
+                "team": 0,
+                "teamname": "ally"
+            }
+        },
+        {
+            "combatstats": {
+                "attack": 10,
+                "attacks_per_second": 1.0,
+                "currentHp": 100,
+                "range": 2,
+                "totalHp": 100
+            },
+            "identity": {
+                "unit": 0,
+                "unitname": "debugger"
+            },
+            "position": [
+                2.0,
+                1.0
+            ],
+            "teamaffiliation": {
+                "team": 1,
+                "teamname": "enemy"
+            }
+        },
+        {
+            "combatstats": {
+                "attack": 15,
+                "attacks_per_second": 1.0,
+                "currentHp": 200,
+                "range": 1,
+                "totalHp": 200
+            },
+            "identity": {
+                "unit": 1,
+                "unitname": "trojan"
+            },
+            "position": [
+                5.0,
+                0.0
+            ],
+            "teamaffiliation": {
+                "team": 1,
+                "teamname": "enemy"
+            }
+        },
+        {
+            "combatstats": {
+                "attack": 20,
+                "attacks_per_second": 0.5,
+                "currentHp": 250,
+                "range": 2,
+                "totalHp": 250
+            },
+            "identity": {
+                "unit": 3,
+                "unitname": "ddos"
+            },
+            "position": [
+                0.0,
+                1.0
+            ],
+            "teamaffiliation": {
+                "team": 1,
+                "teamname": "enemy"
+            }
+        },
+        {
+            "combatstats": {
+                "attack": 15,
+                "attacks_per_second": 1.5,
+                "currentHp": 75,
+                "range": 4,
+                "totalHp": 75
+            },
+            "identity": {
+                "unit": 4,
+                "unitname": "udp"
+            },
+            "position": [
+                5.0,
+                1.0
+            ],
+            "teamaffiliation": {
+                "team": 1,
+                "teamname": "enemy"
+            }
+        }
+    ]
+}
