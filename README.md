@@ -1,4 +1,4 @@
-# Team-05 - BattleNet
+# BattleNet
 **Narrative**
 
 The player, a burgeoning computer virus finds themselves at the entrance to a portal into an unsuspecting PC. Their sole objective - get in and create the most damage possible. It’s a suicide mission.
